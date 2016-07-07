@@ -1,6 +1,6 @@
 {
   "name": "es6-modules",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "build modules with es6 modules",
   "main": "./lib/index.js",
   "dependencies": {
@@ -14,7 +14,7 @@
     "babel-register": "^6.9.0"
   },
   "scripts": {
-    "build": "babel ./lib --out-dir src ",
+    "build": "babel ./src --out-dir lib ",
     "test": "ava"
   },
   "keywords": [
