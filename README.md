@@ -1,4 +1,4 @@
-#modules 
+#modules
 
 ## install
 
@@ -11,7 +11,7 @@ npm install modules
 ```js
 //index.js
 
-var {modules} = require('modules')
+const {modules} = require('modules')
 
 ```
 

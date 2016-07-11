@@ -1,3 +1,3 @@
-const fooo = require('./lib')
+import { fooo } from './lib'
 
-console.log(fooo.fooo())
+console.log(fooo())
