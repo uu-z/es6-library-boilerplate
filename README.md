@@ -11,7 +11,7 @@ npm install modules
 ```js
 //index.js
 
-const {modules} = require('modules')
+import module from 'module'
 
 ```
 
