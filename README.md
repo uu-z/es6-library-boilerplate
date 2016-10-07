@@ -1,5 +1,5 @@
-#modules
-
+# es6-library-boilerplate
+[![Build Status](https://travis-ci.org/ncysatnaf/es6-library-boilerplate.svg?branch=master)](https://travis-ci.org/ncysatnaf/es6-library-boilerplate)
 ## install
 
 ```
