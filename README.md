@@ -3,7 +3,7 @@
 ## install
 
 ```
-git clone https://github.com/ncysatnaf/es6-modules your-module
+git clone https://github.com/ncysatnaf/es6-library-boilerplate your-module
 ```
 
 ## usage  
