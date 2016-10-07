@@ -1,5 +1,1 @@
-import fooo from './fooo'
-
-export {
-  fooo
-}
+export { sum } from './sum'

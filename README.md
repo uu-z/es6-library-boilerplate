@@ -3,16 +3,15 @@
 ## install
 
 ```
-npm install modules
+git clone https://github.com/ncysatnaf/es6-modules your-module
 ```
 
 ## usage  
 
-```js
-//index.js
+```bash
+$ npm run dev
 
-import module from 'module'
-
+$ npm run build
 ```
 
 
